@@ -54,7 +54,7 @@ header {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #eee;
+  background-color: #fff;
   max-height: 170px;
   width: 100vw;
 }
@@ -135,7 +135,7 @@ nav > ul {
 
 @media (max-width: 650px) {
   #hero {
-    margin-top: 50px;
+    margin-top: 60px;
   }
 }
 
